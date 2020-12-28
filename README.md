@@ -8,3 +8,9 @@ https://github.com/swc-project/swc
 ```
 npx swc src -d dist
 ```
+
+
+### how to run
+```
+node dist/hello
+```
